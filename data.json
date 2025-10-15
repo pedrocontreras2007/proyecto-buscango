@@ -7,6 +7,14 @@
       "ruta": "Liserco - Sindempart a Centro",
       "posicion": null,
       "pasajeros": 25
+    },
+    "L11": {
+      "numero": "L11",
+      "capacidad": 45,
+      "estado": "AVAILABLE",
+      "ruta": null,
+      "posicion": null,
+      "pasajeros": 0
     }
   },
   "rutas": {
