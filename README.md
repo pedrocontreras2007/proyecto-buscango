@@ -6,7 +6,7 @@ Sistema de gestión de buses desarrollado en Python con interfaz gráfica usando
 
 - **Gestión de Buses**: Crear, listar y gestionar buses del sistema
 - **Gestión de Rutas**: Crear y administrar rutas con paradas
-- **Mapa Interactivo**: Visualización de rutas en mapa de Santiago
+- **Mapa Interactivo**: Visualización de rutas en mapa de Coquimbo
 - **Interfaz Gráfica**: Aplicación de escritorio fácil de usar
 - **Persistencia de Datos**: Almacenamiento en archivos JSON
 
@@ -28,7 +28,7 @@ Sistema de gestión de buses desarrollado en Python con interfaz gráfica usando
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/buscango.git
+git clone https://github.com/pedrocontreras2007/proyecto-buscango.git
 cd buscango
 ```
 
@@ -167,13 +167,9 @@ python -m pytest tests/
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
-
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo inicial* - [tu-usuario](https://github.com/tu-usuario)
+- **Pedro Contreras**- *Desarrollo inicial* - [pedrocontreras2007](https://github.com/pedrocontreras2007)
 
 ## 🙏 Agradecimientos
 
