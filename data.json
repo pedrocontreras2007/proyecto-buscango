@@ -1,76 +1,27 @@
 {
   "buses": {
-    "B001": {
-      "numero": "B001",
-      "capacidad": 40,
-      "estado": "AVAILABLE",
-      "ruta": null,
-      "posicion": null,
-      "pasajeros": 0
-    },
-    "B002": {
-      "numero": "B002",
-      "capacidad": 35,
-      "estado": "IN_ROUTE",
-      "ruta": "Ruta Centro",
-      "posicion": [
-        -33.4489,
-        -70.6693
-      ],
-      "pasajeros": 25
-    },
-    "B003": {
-      "numero": "B003",
+    "LS-215": {
+      "numero": "LS-215",
       "capacidad": 45,
-      "estado": "MAINTENANCE",
-      "ruta": null,
+      "estado": "En Ruta",
+      "ruta": "Liserco - Sindempart a Centro",
       "posicion": null,
-      "pasajeros": 0
-    },
-    "666": {
-      "numero": "666",
-      "capacidad": 40,
-      "estado": "AVAILABLE",
-      "ruta": null,
-      "posicion": null,
-      "pasajeros": 0
+      "pasajeros": 25
     }
   },
   "rutas": {
-    "Ruta Centro": {
-      "nombre": "Ruta Centro",
+    "Liserco - Sindempart a Centro": {
+      "nombre": "Liserco - Sindempart a Centro",
       "paradas": [
-        "Plaza de Armas",
-        "Estación Central",
-        "Parque Forestal",
-        "Bellavista",
-        "Providencia"
-      ]
-    },
-    "Ruta Norte": {
-      "nombre": "Ruta Norte",
-      "paradas": [
-        "Las Condes",
-        "Vitacura",
-        "La Reina",
-        "Ñuñoa",
-        "Macul"
-      ]
-    },
-    "Ruta Sur": {
-      "nombre": "Ruta Sur",
-      "paradas": [
-        "Maipú",
-        "Cerrillos",
-        "Estación Central",
-        "San Miguel",
-        "La Cisterna"
-      ]
-    },
-    "tralalerotralala": {
-      "nombre": "tralalerotralala",
-      "paradas": [
-        "mapocho"
+        "Plaza de Sindempart",
+        "Avenida El Sauce con Los Pimientos",
+        "Avenida El Sauce con Las Lomas",
+        "Avenida Panorámica con Talca",
+        "Regimiento Arica con Circunvalación",
+        "Avenida Balmaceda con Estadio La Portada",
+        "Terminal de Buses Coquimbo",
+        "Mall Plaza La Serena",
+        "Avenida del Mar con Cuatro Esquinas"
       ]
     }
   }
