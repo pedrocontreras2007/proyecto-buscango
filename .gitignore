@@ -1,0 +1,95 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+.env/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Archivos de distribución / empaquetado
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Archivos de entorno
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+logs/
+*.log
+
+# Archivos temporales
+temp_map.html
+*.tmp
+*.temp
+
+# Base de datos local
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de datos (opcional - descomenta si no quieres subir datos de ejemplo)
+# data.json
+
+# Archivos de configuración local
+config/local.py
+.env.local
+
+# Archivos de prueba
+test_*.py
+*_test.py
+tests/__pycache__/
+
+# Archivos de cobertura
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de pyenv
+.python-version
+
+# Archivos de pipenv
+Pipfile.lock
+
+# Archivos de poetry
+poetry.lock
